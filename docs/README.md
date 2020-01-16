@@ -1,13 +1,13 @@
 <p align="center">
   <a href="http://www.wgyun.com.cn">
     <img alt="wgyun" src="./_images/logo.svg" width="240px;" />
-    <p align="center" style="font-size: 68px;">望果制造执行系统</p>
+    <!-- <p align="center" style="font-size: 42px;">望果制造执行系统</p> -->
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   工厂智能化管理专家
-</p>
+</p> -->
 
 
 

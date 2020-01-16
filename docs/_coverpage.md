@@ -1,12 +1,12 @@
-![logo](_media/icon.svg)
+![logo](_images/logo.svg)
 
-# docsify <small>0.0.1</small>
+# 望果MES <small>0.0.1</small>
 
-> A magical documentation site generator.
+> 工厂智能化管理专家
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
+- 轻量化
+- 快速部署
+- 无缝对接主流ERP
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[望果官网](http://www.emblic.com.cn/)
+[阅读文档](#公司介绍)
