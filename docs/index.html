@@ -17,10 +17,26 @@
   <script>
     window.$docsify = {
       name: '望果MES文档',
+      auto2top: true,
       loadSidebar: true,
+      maxLevel: 4,
       subMaxLevel: 2,
       loadNavbar: true,
       coverpage: true,
+      search: {
+        noData: {
+          '/de-de/': 'Keine Ergebnisse!',
+          '/zh-cn/': '没有结果!',
+          '/': 'No results!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/de-de/': 'Suche',
+          '/zh-cn/': '搜索',
+          '/': 'Search'
+        }
+      },
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
